@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @agnetss, a beginner in IT. 
+- 👀 I’m interested in fronted-development
+- 🌱 I’m currently learning HTML5, CSS and JS. Also some frameworks. 
+- 📫 You can contact with me in Telegram (@wtfgregg) or by email (kotvika08@mail.ru) 
