@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @agnetss, a beginner in IT. 
-- 👀 I’m interested in fronted-development
-- 🌱 I’m currently learning HTML5, CSS and JS. Also some frameworks. 
+
